@@ -1,0 +1,18 @@
+OpenVPN CLIENT LIST
+Updated,Thu Apr 30 09:54:03 2020
+Common Name,Real Address,Bytes Received,Bytes Sent,Connected Since
+sunzhiwei,111.27.174.129:2958,437063,392740,Wed Apr 29 21:34:17 2020
+wangcaisha,120.244.238.240:8025,599334,730812,Thu Apr 30 08:49:02 2020
+zengxiao,117.150.164.86:41074,40808,178180,Thu Apr 30 09:48:23 2020
+zhanghaifang,183.198.27.34:21042,273109,321161,Thu Apr 30 08:59:08 2020
+guoyongli,125.34.76.166:1959,55175,63636,Thu Apr 30 09:16:16 2020
+ROUTING TABLE
+Virtual Address,Common Name,Real Address,Last Ref
+10.100.100.106,sunzhiwei,111.27.174.129:2958,Thu Apr 30 09:53:03 2020
+10.100.100.90,zhanghaifang,183.198.27.34:21042,Thu Apr 30 09:21:10 2020
+10.100.100.210,wangcaisha,120.244.238.240:8025,Thu Apr 30 09:49:53 2020
+10.100.100.98,zengxiao,117.150.164.86:41074,Thu Apr 30 09:54:00 2020
+10.100.100.226,guoyongli,125.34.76.166:1959,Thu Apr 30 09:47:39 2020
+GLOBAL STATS
+Max bcast/mcast queue length,3
+END
